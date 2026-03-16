@@ -90,6 +90,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project (China).
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud (South Korea).
 - [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
+- [Novyte Materials](https.novyte.in) - AI-Scientist platform for end-to-end materials discovery, from literature to synthesis to optimized formulation (India).
 - [Orbital Materials](https://orbitalmaterials.com) - Advanced materials, made with AI (UK).
 - [Periodic Labs](https://periodiclabs.ai) - A new materials AI startup from OpenAI and Google DeepMind (USA and UK).
 - [Radical AI](https://www.radical-ai.com) - Accelerating materials R&D (New York, USA).
